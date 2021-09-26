@@ -1,0 +1,23 @@
+Leaves = main organ of plant ; carries out photosynthesis
+External structure = Lamina, petiole
+Lamina = flat, thin, smooth and green part of the leaf ; flat-shaped to provide wide surface to expose cells containing chloroplast to the max amount sunlight ; thin to allow gases involved in photosynthesis to diffuse efficiently in the leaf
+Petiole = leaf stalk that connects lamina to the stem of plant ; stretches out into the lamina producing network of middle veins to support lamina
+Leaf mosaic = in most plants, leaves grow without overlapping to enable then receive optimum light - photosynthesis
+Cuticle = waxy, waterproof, transparent layer cover upper / lower parts of leaf epidermis ; reduce excessive loss of water through evaporation(transpiration) ; transparent cuticle allows sunlight to pass through
+Upper epidermis = upper surface of leaf under cuticle layer ; does not contain any chloroplast ; transparent so light can pass through it
+Lower epidermis = lower surface of the leaf ; consists of stomata : each stoma guarded by a pair of guard cells
+Palisade mesophyll = arranged vertically and closed-packed to recceive max light exposure ; theese cells are sites for photosynthesis : contain many chloroplast
+Spongy mesophyll = irregular-shaped : increases the internal surface area for gaseous exchange ; loosely arranged : many intercellular air spaces ; ease carbon dioxide and water absorbtion through leaves to palisade mesophyll cells during photosynthesis ; has less number of chloroplasts than palisade mesophyll
+Vascular bundle = xylem : ; transport water and mineral salts from root to leaf ; wall of xylem lignified, thickened to provide mechanical support and strength to plants ; phloen : ; transports organic substances produced during photosynthesis from leaves to other parts of plants
+Necessity of gaseous exchange in plants = Stomata : pores located at lower epidermis of leaf ; each stomata guarded by pair of guard cell : control opening and closing of stoma by changing shape ; guard cell contains chloroplast : carry out photosynthesis
+Cacti plant = open stoma only during night only for carbon dioxide exchange : colder temp of night can reduce water loss
+Mechanism of stomata opening and closing = depends : potassium ion (K+) uptake, sucrose concentration in guard cell sap
+{P} uptake of potassium ions by guard cell = accumulation or elimation of potassium ion : change solute potential ; increase / decrease water potential in guard cell ; water diffuse out or into guard cell via osmosis ; this condition determines whether guard cells are turgid or flaccid ; stoma opening : K+ ions enters vacuole, water follows by osmosis, guard cells become turgid and curve outwords ; stoma closing : K+ ions exits vacuoles, water follows by osmosis, stoma closes as guard cell lose turgidity and become flaccid
+{P} sucrose concentration in guard cell sap = day time : presence of light ; photosynthesis take place produces dissolved sugar (sucrose) ; concentration of sucrose in guard cells become high ; water potential in guard cell decreases ; water molecules from epidermis cells diffuse into guard cells via osmosis ; guard cell becomes turgid and curves outwards ; stoma opens ; night time : absence of light ; sugar in guard cell coverts into starch ; concentration of sucrose in guard cell becomes low ; water potential in guard cell increase ; water molecules diffuse out from guard cells to epidermis cells via osmosis ; guard cell become sflaccid ; stoma closes
+Guard cell work concept = guard cell : only epidermal cell with chloroplasts ; in day, stoma opens so carbon dioxide gas can enter leaf : chloroplast makes sugar(photosyntheisi), guard cell actively pump K+ ions
+Differences between leaf cuticle of plant in desert and an aquatic plant = aquatic plant, desert plant
+{P} Most aquatic plant do not need cuticle / have thin cuticle as cuticle prevent loss of water ; aquatic plant keep stoma always open : they do not need to retain water ; cuticle is usually thicker : upper surface of leaf
+{P} Plants in desert cuticle usually thicker ; cuticle on leaves are usually thicker in dry or windy climate than in wet or calm environment
+Effect of water deficiency in plants on stomatal opening and closing = water from plants is lost in form of water vapour to surrounding via stomata ; opening and closing of stoma dependent on turgor pressure of guard cell
+{P} fresh plant = plant obtain enough water ; guard cell becomes turgid ; inncer cell wall : thick and less elastic compared to outer wall ; cause guard cells curve outwards and stoma to open
+{P} wilted plant = plant lack water ; guard cell flaccid ; outer cell wall become thin and more elastic ; guard cell lose turgidity ; stoma closes
